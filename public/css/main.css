@@ -265,6 +265,11 @@ body{
     opacity: 1;
 }
 
+.footer>i{
+    position: absolute;
+    left: 82px;
+    margin-top: 31px;
+}
 .footer>span{
     text-align: left;
     font: normal normal normal 20px/50px Nunito;
@@ -285,7 +290,5 @@ body{
     /*background: #FFFFFF 0% 0% no-repeat padding-box;*/
     background-color: #FFFFFF;
     padding: 5px;
-
-
 
 }
